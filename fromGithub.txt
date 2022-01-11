@@ -1,0 +1,3 @@
+This is how you add a file manually.
+Go to the project
+then click add file  and create file
